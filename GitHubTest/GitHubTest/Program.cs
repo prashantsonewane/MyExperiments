@@ -11,6 +11,7 @@ namespace GitHubTest
         static void Main(string[] args)
         {
             Console.WriteLine("If you see this, this is awesome");
+            Console.ReadLine();
         }
     }
 }

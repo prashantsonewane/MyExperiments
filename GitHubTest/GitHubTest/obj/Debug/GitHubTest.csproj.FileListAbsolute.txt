@@ -1,1 +1,6 @@
 C:\GitHub\MyExperiments\GitHubTest\GitHubTest\bin\Debug\GitHubTest.exe.config
+C:\GitHub\MyExperiments\GitHubTest\GitHubTest\bin\Debug\GitHubTest.exe
+C:\GitHub\MyExperiments\GitHubTest\GitHubTest\bin\Debug\GitHubTest.pdb
+C:\GitHub\MyExperiments\GitHubTest\GitHubTest\obj\Debug\GitHubTest.csprojResolveAssemblyReference.cache
+C:\GitHub\MyExperiments\GitHubTest\GitHubTest\obj\Debug\GitHubTest.exe
+C:\GitHub\MyExperiments\GitHubTest\GitHubTest\obj\Debug\GitHubTest.pdb
